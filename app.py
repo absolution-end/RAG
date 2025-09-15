@@ -50,5 +50,7 @@ def load_document_from_directory(directory_path):
                 os.path.join(directory_path, filename), 'r',encoding="utf-8"
                 ) as file:
                     document.append({"id": filename, "text": file.read()})
-                    document.append({"id": filename, "text": file.read()})
-                    return document
+    return document
+
+# Function split text into chunks
+ 

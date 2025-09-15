@@ -1,0 +1,28 @@
+India is preparing to roll out its first domestically produced semiconductor by the end of this year. Prime Minister Narendra Modi, in his Independence Day speech at the Red Fort Friday, emphasised the pressing need for the country to be technology-driven to achieve success.
+
+“We are working in mission mode in the semiconductor sector. Made-in-India chips will hit markets by the end of this year,” he said. “We have decided to make India self-reliant in energy, taking several initiatives in solar, hydrogen and nuclear sectors.”
+
+The prime minister’s comments come two days after the approval of four new semiconductor manufacturing facilities under India Semiconductor Mission (ISM) for applications in defence, electric vehicles and solar power. These facilities are to be set up in Odisha, Punjab and Andhra Pradesh, with an investment of Rs 4,600 crore, amplifying employment opportunities for skilled professionals in the electronic manufacturing ecosystem.
+
+For instance, SicSem Private Limited is collaborating with UK’s Class-SiC Wafer Fab Ltd to manufacture Silicon Carbide devices in Info Valley, Bhubaneshwar, Odisha. This will be the first commercial compound fabrication facility in the country, according to a government press release. Also in Info Valley, 3D Glass Solutions will be setting up a packaging and embedding glass substrate unit.
+
+In Andhra Pradesh, a semiconductor manufacturing unit for applications in mobile phones and automobiles will be set up in a tie-up with South Korea-based Advanced System in Package Technologies (ASIP). Punjab will also house a manufacturing facility through the expansion of Continental Device India Private Limited’s (CDIL) unit in Mohali.
+
+“These would complement the growing world class chip design capabilities coming up in the country which are propelled by design infrastructure support provided by the Government to 278 academic institutions and 72 start-ups,” the government statement read.
+
+Later this year, the country will host the fourth edition of Semicon India 2025 in New Delhi. This year, the conference will focus on building semiconductor powerhouses. For the first time, the exhibition will have international pavilions from Japan, South Korea, Malaysia, and 15 other countries.
+
+Joining the global chip circuit
+Modi has previously pushed for “betting on India”, especially “when the chips are down”, by banking on India’s semiconductor revolution. By 2030, India’s chip market is expected to grow to $100 billion.
+
+India is setting foot in the global semiconductor industry, which is currently dominated by countries like Taiwan, Japan, China and the US. More than 60 percent of semiconductors in the world are presently manufactured by Taiwan, exposing global supply chains to alarming risks in the middle of geopolitical tensions. India has joined the race, along with the US, EU, Japan and South Korea, to be self reliant in semiconductor production.
+
+With rich sources of chemicals, minerals and gases used for semiconductor manufacturing, India is seen as a country which could rise as a contributor to the primary pillars of chip manufacturing supply chain, such as equipment building, material supply, and research and development.
+
+Nonetheless, India needs the right technology and policy to realise a semiconductor future, besides ensuring a strong industry-academia engagement, where academia works on industry-relevant problems, and industry must have a vision for the next 10 years to drive futuristic research through academia.
+
+Government subsidies and support to build fabrication facilities are pertinent. That said, as policy experts observe, fabrication facilities will take longer for companies to see profits. The longer time in returns might lead to the fabrication laboratories to be uneconomical, and will warrant multiple rounds of subsidies.
+
+It is also important to secure intellectual property rights for semiconductor designs. Reports suggest that India has lower domestic control of patents, unlike countries like China.
+
+The India Semiconductor Mission (ISM), approved by the Union Cabinet in December 2021, outlays Rs 76,000 crore to provide support for investment in semiconductor fabrication, display and manufacturing and chip design. ISM is focused on a long-term strategy for the manufacturing and design ecosystem by promoting indigenous Intellectual Property (IP) generation, while training Indian youth and encouraging international investments. Such a focus extends to other sectors as well.

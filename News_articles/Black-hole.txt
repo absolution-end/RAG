@@ -1,0 +1,46 @@
+Ten years ago, scientists heard the universe rumble for the first time. That first discovery of gravitational waves proved a key prediction from Albert Einstein’s theory of general relativity and began a new era of astronomy.
+
+Now, a new gravitational-wave discovery marks the anniversary of this major breakthrough. Published today in Physical Review Letters, it puts to the test a theory from another giant of science, Stephen Hawking.
+
+What are gravitational waves?
+Gravitational waves are “ripples” in the fabric of space-time that travel at the speed of light. They are caused by highly accelerated massive objects, such as colliding black holes or the mergers of massive star remains known as neutron stars.
+
+These ripples propagating through the universe were first directly observed on September 14 2015 by the twin Laser Interferometer Gravitational-wave Observatory (LIGO) detectors in the United States.
+
+That first signal, called GW150914, originated from the collision of two black holes, each more than 30 times the mass of the Sun and more than a billion light years away from Earth.
+
+This was the first direct proof of gravitational waves, exactly as predicted by Einstein’s theory of relativity 100 years earlier. The discovery led to the award of the 2017 Nobel Prize in Physics to Rainer Weiss, Barry Barish and Kip Thorne for their pioneering work on the LIGO collaboration.
+
+Hundreds of signals in less than a decade
+Since 2015, more than 300 gravitational waves have been observed by LIGO, along with the Italian Virgo and Japanese KAGRA detectors.
+
+Just a few weeks ago, the international LIGO/Virgo/KAGRA collaboration released the latest results from their fourth observing run, more than doubling the number of known gravitational waves.
+
+Now, ten years after the first discovery, an international collaboration including Australian scientists from the Australian Research Council’s Centre of Excellence for Gravitational Wave Discovery (OzGrav), has announced a new gravitational-wave signal, GW250114.
+
+The signal is almost a carbon copy of that very first gravitational wave signal, GW150914.
+
+The black hole collision responsible for GW250114 had very similar physical properties to GW150914. However, due to significant upgrades to the gravitational wave detectors over the past ten years, the new signal is seen much more clearly (almost four times as “loud” as GW150914).
+
+Excitingly, it’s allowed us to put to the test the ideas of another groundbreaking physicist.
+
+Hawking was right, too
+More than 50 years ago, physicists Stephen Hawking and Jacob Bekenstein independently formulated a set of laws that describe black holes.
+
+Hawking’s second law of black hole mechanics, also known as Hawking’s area theorem, states that the area of the event horizon of a black hole must always increase. In other words, black holes can’t shrink.
+
+Meanwhile, Bekenstein showed that the area of a black hole is directly related to its entropy, a scientific measure of disorder. The second law of thermodynamics tells us that entropy must always increase: the universe is always getting messier. Since the entropy of a black hole must also increase with time, it tells us that its area must also increase.
+
+How can we test these ideas? Colliding black holes, it turns out, are the perfect tool.
+
+The precision of this recent measurement allowed scientists to perform the most precise test of Hawking’s area theorem to date.
+
+Previous tests using the first detection, GW150914, showed that signal was in good agreement with Hawking’s law, but could not confirm it conclusively.
+
+Black holes are surprisingly simple objects. The horizon area of a black hole depends on its mass and spin, the only parameters necessary to describe an astrophysical black hole. In turn, the masses and spins determine what the gravitational wave looks like.
+
+By separately measuring the masses and spins of the incoming pair of black holes, and comparing these to the mass and spin of the final black hole left over after the collision, scientists were able to compare the areas of the two individual colliding black holes to the area of the final black hole.
+
+The data show excellent agreement with the theoretical prediction that the area should increase, confirming Hawking’s law without a doubt.
+
+Which giant of science will we put to the test next? Future gravitational wave observations will allow us to test more exotic scientific theories, and maybe even probe the nature of the missing components of the universe – dark matter and dark energy.
