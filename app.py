@@ -29,14 +29,26 @@ collection = chroma_client.get_or_create_collection(
 
 client = OpenAI(api_key=openrouter_key, base_url="https://openrouter.ai/api/v1")
 
-resp = client.chat.completions.create(
-    model="mistralai/mistral-7b-instruct",
-    messages=[
-        {"role": "system", "content": "You are a helpful assistant."},
-        {
-            "role": "user",
-            "content": "What is human life expectancy in the United States?",
-        },
-    ],
-)
-print(resp.choices[0].message.content)
+# resp = client.chat.completions.create(
+#     model="mistralai/mistral-7b-instruct",
+#     messages=[
+#         {"role": "system", "content": "You are a helpful assistant."},
+#         {
+#             "role": "user",
+#             "content": "What is human life expectancy in the United States?",
+#         },
+#     ],
+# )
+# print(resp.choices[0].message.content)
+
+# # To load a document from a directory
+def load_document_from_directory(directory_path):
+    document = []
+    for filename in os.listdir(directory_path):
+        if filename.endswith(".txt"):
+            with open(
+                os.path.join(directory_path, filename), 'r',encoding="utf-8"
+                ) as file:
+                    document.append({"id": filename, "text": file.read()})
+                    document.append({"id": filename, "text": file.read()})
+                    return document
