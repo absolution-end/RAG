@@ -53,4 +53,11 @@ def load_document_from_directory(directory_path):
     return document
 
 # Function split text into chunks
- 
+def split_text(text, chunk_size=1000, chunk_overlap=20):
+    chunk =[]
+    start =0
+    while start < len(text):
+        end = start + chunk_size
+        chunk.append(text[start:end])
+        start = end - chunk_overlap
+    return chunk
